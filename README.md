@@ -28,5 +28,5 @@ Prizes
 
 * John L. won a JetBrains license
 * Henrish M. won a Manning eBook
-* Christop A. won a Manning eBook
+* Christoph A. won a Manning eBook
 * Handré got an OfferZen T-Shirt
