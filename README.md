@@ -26,7 +26,7 @@ Prizes
 ------
 ## 10/07/2017 [Functional DevOps with NixOS](https://www.meetup.com/lambda-luminaries/events/240661285/)
 
-* John L won a JetBrains license
+* John L. won a JetBrains license
 * Henrish M. won a Manning eBook
 * Christop A. won a Manning eBook
 * Handré got an OfferZen T-Shirt
